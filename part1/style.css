@@ -1,0 +1,27 @@
+.user {
+    width: 500px;
+    border: 2px solid black;
+    margin: 50px;
+    text-align: left;
+}
+.top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.like {
+    display: flex;
+    height: 20px;
+    align-items: center;
+}
+.like button {
+    margin: 10px;
+}
+button {
+    background-color: yellow;
+    border: 2px solid black;
+    box-shadow: black 2px 2px 0px 0px;
+}
+.bottom {
+    margin-left: 14px;
+}
